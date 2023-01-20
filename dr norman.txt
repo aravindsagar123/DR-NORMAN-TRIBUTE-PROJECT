@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        h1{
+            background-color: aqua;
+            color: black;
+            padding:30px;
+        }
+        img{
+            width: 800px;
+        }
+        #left {    
+ text-align: left;  
+ }  
+ #center {    
+ text-align: center;  
+ } 
+ body{
+    background-color:bisque;
+ }
+
+
+        
+        
+    </style>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>DR NORMAN BOURLANG> </title>
+</head>
+<body>
+    <h1>
+        <b><center>DR NORMAN BOURLANG </center></b>
+    </h1>
+
+<div id="left">
+    <img src="https://storage.googleapis.com/cgiarorg/2020/12/93b230a4-borlaug-sonora.jpg" alt="hii" ></div>
+    <h3><i><center>
+       " Norman Ernest Borlaug was an American agronomist who led initiatives worldwide that contributed to the extensive increases in agricultural production termed the Green Revolution."</i></center>
+    </h3>
+    <p>
+        <i>
+            Norman Ernest Borlaug (/ˈbɔːrlɔːɡ/; March 25, 1914 – September 12, 2009)[3] was an American agronomist who led initiatives worldwide that contributed to the extensive increases in agricultural production termed the Green Revolution. Borlaug was awarded multiple honors for his work, including the Nobel Peace Prize, the Presidential Medal of Freedom and the Congressional Gold Medal.Borlaug received his B.S. in forestry in 1937 and Ph.D. in plant pathology and genetics from the University of Minnesota in 1942. He took up an agricultural research position with CIMMYT in Mexico, where he developed semi-dwarf, high-yield, disease-resistant wheat varieties.[1][2] During the mid-20th century, Borlaug led the introduction of these high-yielding varieties combined with modern agricultural production techniques to Mexico, Pakistan, and India. As a result, Mexico became a net exporter of wheat by 1963. Between 1965 and 1970, wheat yields nearly doubled in Pakistan and India, greatly improving the food security in those nations.
+        </i>
+    </p>
+    <h4><b><INS>
+        EARLY LIFE , EDUCATION AND FAMILY </INS>
+    </b>
+
+    </h4>
+
+    <div id="center">
+    
+    <img src="https://thecounter.org/wp-content/uploads/2020/04/man-who-tried-to-feed-the-world-borlaug-with-wheat-april-21-2020-1410x0-c-default.jpg" alt="hii"  ></div><BR>
+        <BR>
+                    <P>
+                        Borlaug was the great-grandchild of Norwegian immigrants to the United States. Ole Olson Dybevig and Solveig Thomasdatter Rinde, of Feios, a small village in Vik kommune, Sogn og Fjordane, Norway, emigrated to Dane County, Wisconsin, in 1854.[citation needed] The family eventually moved to the small Norwegian-American community of Saude, near Cresco, Iowa. There they were members of Saude Lutheran Church, where Norman was both baptized and confirmed.
+
+Borlaug was born to Henry Oliver (1889–1971) and Clara (Vaala) Borlaug (1888–1972) on his grandparents' farm in Saude in 1914, the first of four children. His three sisters were Palma Lillian (Behrens; 1916–2004), Charlotte (Culbert; b. 1919-2012) and Helen (b. 1921). From age seven to nineteen, he worked on the 106-acre (43 ha) family farm west of Protivin, Iowa, fishing, hunting, and raising corn, oats, timothy-grass, cattle, pigs and chickens. He attended the one-teacher, one-room New Oregon #8 rural school in Howard County, through eighth grade.
+                    </P>
+    
+</body>
+</html>
